@@ -1,0 +1,18 @@
+#aa{
+  /*position: fixed; 스크롤움직여도 그 위치에 고정*/
+  font-size: 40px;
+  margin:100px 0  100px 0; /*아마도 위아래 폰트와 사이를 정하는듯?*/
+  color:yellow;
+  background: #E755;/*글자 바탕에 색 넣는*/
+
+}
+#bb{
+  font-size:25px;
+  color: red;
+}
+#cc{
+  color: purple;
+  font-size: 30px;
+  text-decoration:underline
+  /* 밑줄작성 */
+}
